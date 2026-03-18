@@ -1,5 +1,9 @@
 public class App {
 
+    public void calculateMax(int[] values){
+        
+    }
+
     public void calculateAverage(int[] values){
     }
 
