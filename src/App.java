@@ -10,6 +10,7 @@ public class App {
     }
 
     public int calculateAverage(int[] values){
+        System.out.println("value: ");
         return 0;
     }
 
