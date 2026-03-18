@@ -1,5 +1,9 @@
 public class App {
 
+    public void calculateMin(int[] values){
+        
+    }
+
     public void calculateMax(int[] values){
         
     }
