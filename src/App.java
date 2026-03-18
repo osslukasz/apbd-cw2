@@ -2,7 +2,7 @@ public class App {
 
     public void calculateMin(int[] values){
         
-        System.out.println("Printing calculation");git add .
+        System.out.println("Printing calculation");
     }
 
     public void calculateMax(int[] values){
