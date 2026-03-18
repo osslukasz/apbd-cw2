@@ -1,5 +1,8 @@
 public class App {
 
+    public void calculateAverage(int[] values){
+    }
+
     public static void printlol(){
             System.out.println("lol");
         }
