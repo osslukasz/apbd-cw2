@@ -9,7 +9,8 @@ public class App {
         
     }
 
-    public void calculateAverage(int[] values){
+    public int calculateAverage(int[] values){
+        return 0;
     }
 
     public static void printlol(){
